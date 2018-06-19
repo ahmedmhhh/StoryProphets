@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StoryProphets</string>
+    <string-array name="index">
+        <item>آدم عليه السلام</item>
+        <item>إدريس عليه السلام</item>
+        <item>نوح عليه السلام</item>
+        <item>هود عليه السلام</item>
+        <item>صالح عليه السلام</item>
+        <item>إبراهيم عليه السلام</item>
+        <item>يونس عليه السلام</item>
+        <item>موسى عليه السلام</item>
+        <item>عيسى عليه السلام</item>
+    </string-array>
+</resources>
